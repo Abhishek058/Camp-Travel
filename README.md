@@ -4,8 +4,7 @@
 
 Welcome to Camp-Travel, your all-in-one solution for planning and embarking on unforgettable journeys in the pursuit of the incorruptible beauty of nature. Our app is designed to make your travel experiences easier, more enjoyable, and more meaningful. Whether you're an outdoor enthusiast, a nature lover, or simply someone looking to explore the world, Camp-Travel has something to offer for everyone.
 
-![image](https://github.com/Abhishek058/Camp-Travel/assets/101443776/03bd2c45-0b9d-4c3f-903e-d06e9ce95b12)
-
+![image](https://github.com/Abhishek058/Camp-Travel/assets/101443776/9f1a426a-1d40-4804-a0f2-a95d6782700d)
 
 ## Features
 
