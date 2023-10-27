@@ -23,7 +23,7 @@ const Features = () => {
               alt="camp"
               width={50}
               height={50}
-              className="absolute left-[-5px] top-[-28px] w-10 lg:w-[50px]"
+              className="absolute left-[-5px] top-[-32px] w-10 lg:w-[50px]"
             />
             <h2 className="bold-40 lg:bold-64">Our Features</h2>
           </div>
